@@ -54,7 +54,9 @@
 ## 📬Contact:
 
 Telegram: [@suphi007](https://t.me/suphi007)
+
 Telegram Channel: [@otoaraclar](https://t.me/otoaraclar)
+
 Telegram Community: [@richotosohbet](https://t.me/richotosohbet)
 
 ---
