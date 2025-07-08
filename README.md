@@ -1,7 +1,8 @@
 
 # 🚀 S-APIs | Social Media Automation Panel
 
-![image](https://github.com/user-attachments/assets/6426c806-6ffb-484e-95b3-58848d3e87ab)
+![image](https://github.com/user-attachments/assets/cb9e1636-6a25-4b1d-9cf0-8daba2605b02)
+
 
 
 ## 📋 Features:
