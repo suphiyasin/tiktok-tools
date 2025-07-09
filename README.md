@@ -59,6 +59,6 @@ Telegram Channel: [@otoaraclar](https://t.me/otoaraclar)
 
 Telegram Community: [@richotosohbet](https://t.me/richotosohbet)
 
-----
+-----
 
 **⚠️ Note:** This project is for education & research purposes, use at your own risk.
